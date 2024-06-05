@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.twitter-tweet {
+  margin-top: 0px !important;
+  /* border: 0px solid white !important; */
+}
