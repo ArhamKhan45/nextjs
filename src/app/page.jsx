@@ -15,6 +15,9 @@ function page() {
         <p>
           3. <Link href={"/register"}> Register</Link>
         </p>
+        <p>
+          3. <Link href={"/gsap"}> GSAP</Link>
+        </p>
       </h4>
     </div>
   );
